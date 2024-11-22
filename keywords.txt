@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Arduino_BOSCH_BMM150
+####################################### 
+# Class
+#######################################
+
+bosch_bmm150  KEYWORD1
+Data          KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+initialize  KEYWORD2
+terminate   KEYWORD2
+
+enableInterrupt    KEYWORD2
+disableInterrupt   KEYWORD2
+
+magneticfield             KEYWORD2
+magneticfieldAvailable    KEYWORD2
+magneticfieldSampleRate   KEYWORD2
+
+#######################################
+# Constants
+#######################################
